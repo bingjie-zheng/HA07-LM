@@ -2,7 +2,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import math  # 导入 math 库用于开平方
+import math  
 
 from torch import FloatTensor,LongTensor, BoolTensor
 from typing import Optional, Iterable
